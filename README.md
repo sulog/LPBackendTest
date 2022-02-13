@@ -11,6 +11,7 @@ Below are the prerequisites are required for building and running the applicatio
 - Build the App.
 - Run the App.
 - Swagger will be launched, from where the API can be tested or we could use Postman.
+- Run the tests if required.
 
 ## Considrations
 Due to time constraint the below are the considerations made during the implementation of App.
