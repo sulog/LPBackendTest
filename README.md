@@ -26,6 +26,6 @@ Due to time constraint the below are the considerations made during the implemen
 - Complete full-text search implementation with Elastic Search / SQL Server Full Text Search.
 - We can implement integration test & BDD test case for the scenario's.
 - Model state validation for the request objects.
-- More unit test cases to cover the Services & Repositories
-- Logging 
-
+- More unit test cases to cover the Services & Repositories.
+- Logging.
+- Dockerize the REST App.
